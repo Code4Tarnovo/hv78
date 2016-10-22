@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>dasgotvim.bg</title>
+		<meta http-equiv="Content-Typeype" content="text/html; charset=windows-1251"/>
+        <meta http-equiv="Content-Language" content="bg"/>
+		<meta name="keywords" content="готвене", "вкусно", "бързо", "вегетарианско"/>
+		<link REL="SHORTCUT  ICON" HREF="papka1/logo.jpg"/>
+		<link REL="stylesheet" type="text/css" href="try.css"/>
+		</head>
+<body>
+<form>
+<select name="cook">
+<option>Начало</option>
+<option>Ястия с месо</option>
+<option>Вегетарианско</option>
+<option>Сладки и тестени изделия</option>
+</select>
+</form>
+</body>
+</html>

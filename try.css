@@ -1,0 +1,71 @@
+﻿a {
+    text-decoration: none;
+    !important;
+}
+
+body.pic {
+    background-image: url("https://m3.netinfo.bg/media/images/21618/21618838/624-400-dvojka-gotvene-kuhnia.jpg");
+    width: 100%;
+    height: 100%;
+}
+
+.nav li {
+    list-style: none;
+}
+
+    .nav li a {
+        text-decoration: none;
+        color =YellowGreen;
+        display: block;
+        padding: 10px 30px;
+        background: black;
+    }
+
+    .nav li, .nav li a {
+        float: left;
+    }
+
+.nav li {
+    position: relative;
+}
+
+.noline a {
+    text-decoration: none;
+}
+
+/* slewashtoto e za podmenu*/
+.nav li ul {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    top: 100%;
+    display: none;
+}
+
+.nav li:hover > ul {
+    display: block;
+}
+
+/* trqbwa da formatiram stranichkite (h1,h2,h3, teksta da e s <pre>?? ili s align:justify, link da ne sa podchertani!!,  ul da sa type square? */
+/* da popitam za logoto?! i zashto text-a ne e na BG , za keywords i description sushto*/
+html {
+    width: 90%;
+    margin: 0 5%;
+}
+
+body {
+    margin: 0;
+}
+
+h1,h2{
+    font-family: Arial Black;
+    font-weight: bold;
+}
+
+ul.nav {
+    height: 38px;
+    width: 100%;
+    background: black;
+    padding-left: 0;
+}
+
