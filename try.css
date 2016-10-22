@@ -9,21 +9,29 @@ body.pic {
     height: 100%;
 }
 
+.margin- {
+    margin-top: -140px;
+}
+
 .nav li {
     list-style: none;
 }
 
-    .nav li a {
-        text-decoration: none;
-        color =YellowGreen;
-        display: block;
-        padding: 10px 30px;
-        background: black;
-    }
+.nav2 li a {
+    width: 100px;
+}
 
-    .nav li, .nav li a {
-        float: left;
-    }
+.nav li a {
+    text-decoration: none;
+    color =YellowGreen;
+    display: block;
+    padding: 10px 30px;
+    background: black;
+}
+
+.nav li, .nav li a {
+    float: left;
+}
 
 .nav li {
     position: relative;
@@ -57,7 +65,7 @@ body {
     margin: 0;
 }
 
-h1,h2{
+h1, h2 {
     font-family: Arial Black;
     font-weight: bold;
 }
@@ -69,3 +77,7 @@ ul.nav {
     padding-left: 0;
 }
 
+.same {
+    font-size: 18px;
+    padding: 0 10px;
+}
